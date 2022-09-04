@@ -1,3 +1,5 @@
 TC_08-08_Sunset_D.uasset filter=lfs diff=lfs merge=lfs -text
 T_CliffSharp_basecolor.uasset filter=lfs diff=lfs merge=lfs -text
 T_CliffSharp_normal.uasset filter=lfs diff=lfs merge=lfs -text
+T_Sandstone_Cliff_basecolor.uasset filter=lfs diff=lfs merge=lfs -text
+T_Sandstone_Cliff_roughness.uasset filter=lfs diff=lfs merge=lfs -text
